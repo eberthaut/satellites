@@ -1,8 +1,8 @@
 ---
-layout: default
-title: Your New Jekyll Site
+layout: feature
+title: Test
+subtitle: wow !
+background: ngc2174
 ---
 
-# Satellites
-
-test
+trololo
