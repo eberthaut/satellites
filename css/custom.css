@@ -1,13 +1,21 @@
 header {
   background-color: black;
-  padding-top: 20%;
-}
-
-header {
-  background-image: url("/images/ngc2174.jpg");
+  padding-top: 80px;
+  margin-bottom: 50px;
   background-size: 100%;
   background-attachment: fixed;
   background-repeat: no-repeat;
+}
+
+.parallax {
+  background-color: black;
+  height: 100px;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.ngc2174 {
+  background-image: url("/images/ngc2174.jpg");
 }
 
 header h1 {
@@ -17,4 +25,54 @@ header h1 {
 header h1 small {
   color: #ccd;
   font-style: italic;
+}
+
+.satellite {
+  display: block;
+  position: absolute;
+  height: 100px;
+  top: 10px;
+  right: 100px;
+}
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+  header {
+    padding-top: 150px;
+  }
+  .satellite {
+    height: 150px;
+    top: 90px;
+  }
+  .parallax {
+    height: 150px;
+  }
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+  header {
+    padding-top: 200px;
+  }
+  .satellite {
+    height: 175px;
+    top: 120px;
+  }
+  .parallax {
+    height: 200px;
+  }
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+  header {
+    padding-top: 300px;
+  }
+  .satellite {
+    height: 200px;
+    top: 200px;
+  }
+  .parallax {
+    height: 300px;
+  }
 }

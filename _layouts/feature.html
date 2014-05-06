@@ -4,7 +4,10 @@ layout: default
 <header class="{{ page.background }}" data-stellar-background-ratio="0.2">
   <div class="container">
     <div class="row">
-      <div class="col-md-12">
+      <img class="satellite" src="/images/{{ page.satellite }}.png" alt="{{ page.title }}" data-stellar-ratio="1.4"/>
+    </div>
+    <div class="row">
+      <div class="col-xs-12">
         <h1>{{ page.title }} <small>{{ page.subtitle }}</small></h1>
       </div>
     </div>
@@ -13,7 +16,7 @@ layout: default
 
 <div class="container">
   <div class="row">
-    <div class="col-md-12" style="height: 1500px;">
+    <div class="col-md-12">
       {{ content }}
       <p><a href="http://www.spacetelescope.org">Photos par le satellite Hubble | NASA, ESA, and the Hubble Heritage Team (CC-BY)</a></p>
     </div>
