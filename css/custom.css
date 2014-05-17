@@ -1,3 +1,9 @@
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,200);
+
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
 header {
   background-color: black;
   padding-top: 80px;
@@ -16,6 +22,10 @@ header {
 
 .ngc2174 {
   background-image: url("/images/ngc2174.jpg");
+}
+
+.heic1107a {
+  background-image: url("/images/heic1107a.jpg");
 }
 
 header h1 {
