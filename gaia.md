@@ -153,8 +153,9 @@ Ce phénomène résulte des lois de la gravité, des lois de la mécanique (de N
 Deux corps situés à une distance d l'un de l'autre sont attirés par une Force F qui est proportionnelle à leur masse et inversement proportionnelle au carré de leur distance.
 C'est une force UNIVERSELLE, qui ne peut pas être annulée ni masquée et qui agit à distance.
 
-$$F=      avec G= constante de gravitation universelle=6,67* 10-11   Nm²/kg²
-M et M’ les masses respectives des corps 1 et 2 et d la distance entre ces deux corps.$$
+$$F=$$      avec $$G=6,67.10^-11   Nm^2/kg^2$$ la constante de gravitation universelle.
+
+M$$ et M’ les masses respectives des corps 1 et 2 et d la distance entre ces deux corps.
 
 ##### Mécanique: Les lois de Newton
 
@@ -173,16 +174,20 @@ T= $$
 
 ##### Exemple: calcul de la distance entre la Terre et le point L1
 Les forces qui agiraient sur un satellite positionné au point L1 sont:
-Fs= Attraction du soleil
-Ft= Attraction de la Terre
-Fc=Force centrifuge autour du soleil
-Fs= Fc + Ft
+
+- Fs= Attraction du soleil
+- Ft= Attraction de la Terre
+- Fc=Force centrifuge autour du soleil
+- Fs= Fc + Ft
+
 On a les données suivantes:
-M= masse du soleil
-m= masse de la Terre
-μ= masse du satellite (très petite face à m et M)
-R= Distance Soleil-Terre
-r= distance de L1 à la Terre
+
+- M= masse du soleil
+- m= masse de la Terre
+- μ= masse du satellite (très petite face à m et M)
+- R= Distance Soleil-Terre
+- r= distance de L1 à la Terre
+
 D’après les équations ci-dessus:
                                  et             
 
@@ -212,7 +217,6 @@ On pourrait aussi calculer la distance de L2 (où Fs = Ft+ Fc) qui est symétriq
 L'amas stellaire NGC 1818 est une galaxie distante de 160 000 années lumière.
 L'image a été prise dans la phase de réglage et de vérification qui a suivi le lancement du satellite.
 Elle reflète l'intensité lumineuse de chaque étoile de l'amas (mais pas les vraies couleurs).
-
 
 Une des premières images envoyées par Gaïa:
 
