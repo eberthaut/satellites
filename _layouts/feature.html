@@ -16,13 +16,20 @@ layout: default
 
 <div class="container">
   <div class="row">
-    <div class="col-md-12">
-      {{ content }}
+    <div class="col-md-2">
+      <div data-spy="affix" class="visible-md visible-lg">
+        <ul class="nav nav-pills nav-stacked">
+          <li><a href="index.html">Introduction</a></li>
+          <li><a href="histoire.html">Histoire &amp; économie</a></li>
+          <li><a href="hipparcos.html">Hipparcos</a></li>
+          <li><a href="wmap.html">WMAP</a></li>
+          <li><a href="planck.html">Planck</a></li>
+          <li><a href="gaia.html">GAIA</a></li>
+        </ul>
+      </div>
     </div>
-  </div>
-  <div class="row">
-    <div class="col-md-12">
-      <a href="index.html" class="btn btn-primary">Retour</a>
+    <div class="col-md-10">
+      {{ content }}
     </div>
   </div>
   <div class="row">
