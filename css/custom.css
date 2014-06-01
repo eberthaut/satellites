@@ -14,6 +14,13 @@ header {
   background-repeat: no-repeat;
 }
 
+.container img {
+  max-width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .parallax {
   background-color: black;
   height: 100px;
