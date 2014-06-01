@@ -4,7 +4,7 @@ title: Les satellites
 ---
 # Les satellites
 
-![Gaia](/images/gaia.png)
+![Gaia](images/gaia.png)
 
 ## Introduction
 

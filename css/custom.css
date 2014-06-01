@@ -21,23 +21,23 @@ header {
 }
 
 .ngc2174 {
-  background-image: url("/images/ngc2174.jpg");
+  background-image: url("../images/ngc2174.jpg");
 }
 
 .heic1107a {
-  background-image: url("/images/heic1107a.jpg");
+  background-image: url("../images/heic1107a.jpg");
 }
 
 .potw1345a {
-  background-image: url("/images/potw1345a.jpg");
+  background-image: url("../images/potw1345a.jpg");
 }
 
 .cosmic {
-  background-image: url("/images/cosmic.png");
+  background-image: url("../images/cosmic.png");
 }
 
 .heic0910h {
-  background-image: url("/images/heic0910h.jpg");
+  background-image: url("../images/heic0910h.jpg");
 }
 
 header h1 {

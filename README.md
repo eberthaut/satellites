@@ -1,4 +1,0 @@
-satellites
-==========
-
-Presentation about satellites
