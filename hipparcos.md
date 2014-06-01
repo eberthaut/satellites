@@ -14,14 +14,23 @@ Trois catalogues d'étoiles ont été produits grâce à Hipparcos : les catalog
 ## Objectifs
 
 Les objectifs du satellite étaient scindés en 2 parties:
+
 1. L’expérience Hipparcos: mesurer les paramètres astrométriques (position, mouvement propre et parallaxe, vitesse radiale) d’environ 120 000 étoiles proches de la Terre avec une très haute précision.
 2. L’expérience Tycho: mesurer les propriétés astrométriques et photométriques de 400 000 autres étoiles situées dans la même région avec une moins bonne précision. La vitesse radiale est ensuite déterminée en s’appuyant sur l’effet Doppler-Fizeau qui modifie le spectre lumineux de l’étoile en fonction de cette vitesse.
+
+![Mesure de la parallaxe](images/hipparcos_parallax.gif)
+
+> Figure 1. Schéma explicatif de la méthode de mesure de la parallaxe
 
 ## Caractéristiques techniques
 
 - Dimensions: Hauteur de 3 m, diamètre de 1,8 m, poids de 1140kg.
 - La plateforme (en aluminium): Contrôle de l’orientation maintenu à l’aide de 4 moteurs-fusées. Le satellite est en rotation lente à la vitesse de 11,25 tours par jour. L’énergie électrique est fournie par 3 panneaux solaires qui fournissent 380 W. Deux batteries nickel-cadmium fournissent l’énergie lorsque la sonde est plongée dans l’obscurité. L’émetteur de 2,5 Watts permet de transmettre les données scientifiques vers la Terre (24 kilobits/s).
 - La charge utile: constituée d’un télescope de Schmidt (télescope astronomique construit de sorte à garantir un important champ de vue tout en limitant les aberrations optiques.) de diamètre 29cm et doté d’une focale de 1,4 mètre. Cet appareil permet ainsi l’observation d’étoiles d’une magnitude apparente allant jusqu’à 12,4 = luminosité 400 fois inférieure à ce qui peut être perçu à l’œil nu depuis la Terre.
+
+![Luminosité apparente](images/hipparcos_bright.jpg)
+
+> Figure 2. Luminosité apparente de certains objets
 
 Le téléscope observe simultanément deux zones du ciel d’une surface de 0,9°*0,9° situées à 58° l’une de l’autre, en effet, le télescope utilise l’écartement angulaire entre les étoiles comme référentiel: l'ensemble des mesures unidimensionnelles combinées avec la connaissance de l'orientation du télescope au moment de l'observation permet de reconstituer la position des étoiles.  Les deux images sont superposées sur un plan focal comportant un détecteur de 2,5 cm × 2,5 cm. Du fait de la rotation lente du satellite autour de son axe (un tour toutes les 128 minutes) l'image des étoiles traverse lentement le détecteur constitué d'une grille composée de 2 688 bandes alternativement transparentes et opaques. Derrière cette grille un détecteur de type photomultiplicateur analyse les variations de lumière toutes les 2 secondes. Ce système permet de mesurer la position de 118 000 étoiles avec une précision de 0,002 arcs-seconde. Un deuxième photomultiplicateur exploite un faisceau lumineux dérivé du faisceau principal pour déterminer et contrôler l'orientation du satellite et effectuer des mesures sur 1 million d'étoiles avec une précision plus faible de 0,03 arc-secondes. L'axe de rotation du télescope est modifié tous les jours de 4,415° ce qui permet sur la durée de la mission d'observer à plusieurs reprises l'ensemble du ciel : en moyenne une étoile traverse le détecteur en 20 secondes et est observé à 110 reprises sur environ 30 époques différentes réparties au cours des 3 ans de la mission.
 
