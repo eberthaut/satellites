@@ -144,73 +144,85 @@ Malgré ce que pourrait laisser penser la figure, les orbites autour de L4 et L5
 
 > Figure 6. Les points de Lagrange
 
-#### Calcul de la distance des points de Lagrange à la Terre:
+#### Calcul de la distance des points de Lagrange à la Terre
 
 Ce phénomène résulte des lois de la gravité, des lois de la mécanique (de Newton) ainsi que de la force centrifuge. Nous rappellerons donc les lois (relatives à ces différents phénomènes physiques) qui seront utiles pour le calcul de la distance des points de Lagrange à la Terre.
 
-##### Gravité:
+##### Gravité
 
 Deux corps situés à une distance d l'un de l'autre sont attirés par une Force F qui est proportionnelle à leur masse et inversement proportionnelle au carré de leur distance.
+
 C'est une force UNIVERSELLE, qui ne peut pas être annulée ni masquée et qui agit à distance.
 
-$$F=$$      avec $$G=6,67.10^-11   Nm^2/kg^2$$ la constante de gravitation universelle.
+$$F=G.\frac{M.M'}{d^2}$$
 
-M$$ et M’ les masses respectives des corps 1 et 2 et d la distance entre ces deux corps.
+Avec \\(G = 6,67.10^{-11} Nm^2/kg^2\\) la constante de gravitation universelle, ainsi que \\(M\\) et \\(M’\\) les masses respectives des corps 1 et 2 et $d$ la distance entre ces deux corps.
 
 ##### Mécanique: Les lois de Newton
 
-Première Loi : En l'absence de forces agissant sur lui, tout corps est soit au repos soit se déplace à vitesse constante en ligne droite.
-Deuxième Loi : Quand une force est appliquée à un corps, il s'accélère dans la même direction et cette accélération est proportionnelle à la Force et inversement proportionnelle à sa masse : 
-                                          
-Rappel : sur Terre Γ est égale à g (accélération de la pesanteur) = 9,8 m/s/s
-Troisième Loi : Toute action entraîne une réaction égale et opposée.
+**Première Loi :** En l'absence de forces agissant sur lui, tout corps est soit au repos soit se déplace à vitesse constante en ligne droite.
 
-##### Force centrifuge:
+**Deuxième Loi :** Quand une force est appliquée à un corps, il s'accélère dans la même direction et cette accélération est proportionnelle à la Force et inversement proportionnelle à sa masse.
 
-$$ Fc=m*a
-a=v² /r
-v= 2πr /T=
-T= $$
+Rappel : sur Terre \\(\Gamma\\) est égale à \\(g=  9,8 m/s/s\\) (accélération de la pesanteur)
 
-##### Exemple: calcul de la distance entre la Terre et le point L1
+**Troisième Loi :** Toute action entraîne une réaction égale et opposée.
+
+##### Force centrifuge
+
+$$F_c=m*a$$
+$$a=\frac{v^2}{r}$$
+$$v=\frac{2\pi r}{T}=TODO$$
+$$T=\sqrt{\frac{r^3}{GM}}$$
+
+##### Exemple: calcul de la distance entre la Terre et le point \\(L_1\\)
 Les forces qui agiraient sur un satellite positionné au point L1 sont:
 
-- Fs= Attraction du soleil
-- Ft= Attraction de la Terre
-- Fc=Force centrifuge autour du soleil
-- Fs= Fc + Ft
+- \\(F_s\\) Attraction du soleil
+- \\(F_t\\) Attraction de la Terre
+- \\(F_c\\) Force centrifuge autour du soleil
+- \\(F\_s = F\_c + F_t\\)
 
 On a les données suivantes:
 
-- M= masse du soleil
-- m= masse de la Terre
-- μ= masse du satellite (très petite face à m et M)
-- R= Distance Soleil-Terre
-- r= distance de L1 à la Terre
+- \\(M\\) masse du soleil
+- \\(m\\) masse de la Terre
+- \\(\mu\\) masse du satellite (très petite face à \\(m\\) et \\(M\\))
+- \\(R\\) Distance Soleil-Terre
+- \\(r\\) distance de \\(L_1\\) à la Terre
 
 D’après les équations ci-dessus:
-                                 et             
+
+$$TODO$$
+
+et
+
+$$TODO$$
 
 Nous avons donc en simplifiant : 
+
+$$TODO$$
    
 Or, en ce point la période de rotation autour du soleil T est ÉGALE  à celle de la Terre (1 an) puisque le point est fixe par rapport à celle-ci. Mais si on considère la Terre seule, elle est en équilibre entre l'attraction solaire et la force centrifuge de la terre sur son orbite, on peut donc écrire, si T est aussi la période de rotation de la terre (1 an) :
 
      
 En remplaçant dans la formule plus haut :
 
-Pour simplifier, on pose :
-$$ y = m/M (très petit) et z= r/R (petit)$$
+Pour simplifier, on pose : \\(y = \frac{m}{M}\\) (très petit) et \\(z = \frac{r}{R}\\) (petit)
 
-En sachant que  $$1/(1-z)3  ~  1 + 3z$$ ,  l'équation se simplifie en :
+En sachant que \\(\frac{1}{(1-z)^3} \approx 1 + 3z\\), l'équation se simplifie en :
 
+$$3 z^3 = y$$
 
-$$3 z3  =  y    soit :      3 (r/R)3  =  m/M$$
+Soit :
 
-##### Dans le cas du système Terre-Soleil :
+$$3 (\frac{r}{R})^3 = \frac{m}{M}$$
 
-Le soleil est 330.000 fois plus lourd que la Terre (m/M  = 3 10-6), on en déduit que le rapport r/R vaut approximativement 1%. Donc la distance entre le point de Lagrange L1 et la terre est égale à 1% de la distance Terre-Soleil soit  r = 1,5 Million de Km de la Terre.  
+##### Dans le cas du système Terre-Soleil
 
-On pourrait aussi calculer la distance de L2 (où Fs = Ft+ Fc) qui est symétrique par rapport à m (la Terre) donc aussi à 1,5 Mkm de celle-ci.
+Le soleil est 330.000 fois plus lourd que la Terre ($\frac{m}{M} = 3.10^{-6}$), on en déduit que le rapport $\frac{r}{R}$ vaut approximativement $1%$. Donc la distance entre le point de Lagrange $L_1$ et la terre est égale à $1%$ de la distance Terre-Soleil soit  $r = 1,5 MKm$ de la Terre.  
+
+On pourrait aussi calculer la distance de $L_2$ (où $F_s = F_t + F_c$) qui est symétrique par rapport à $m$ (la Terre) donc aussi à $1,5 Mkm$ de celle-ci.
 
 ### Un exemple d'observation: l'amas stellaire NGC 1818
 
