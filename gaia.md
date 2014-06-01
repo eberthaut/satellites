@@ -156,7 +156,7 @@ C'est une force UNIVERSELLE, qui ne peut pas être annulée ni masquée et qui a
 
 $$F=G.\frac{M.M'}{d^2}$$
 
-Avec \\(G = 6,67.10^{-11} Nm^2/kg^2\\) la constante de gravitation universelle, ainsi que \\(M\\) et \\(M’\\) les masses respectives des corps 1 et 2 et $d$ la distance entre ces deux corps.
+Avec \\(G = 6,67.10^{-11} Nm^2/kg^2\\) la constante de gravitation universelle, ainsi que \\(M\\) et \\(M’\\) les masses respectives des corps 1 et 2 et \\(d\\) la distance entre ces deux corps.
 
 ##### Mécanique: Les lois de Newton
 
