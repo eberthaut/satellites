@@ -15,6 +15,10 @@ GAIA est le successeur du satellite Hipparcos, et permet de localiser 100 000 fo
 
 Le coût de la mission est évalué à 740 millions d'euros, auquel il faut ajouter celui du consortium en charge du traitement des données, estimé à environ 200 millions d'euros.
 
+![GAIA](images/gaia_sat.png)
+
+> Figure 1. Le satellite GAIA
+
 ## OBSERVATIONS ET TRAITEMENT DES DONNEES:
 
 Le principal défi de la mission Gaia est le traitement des données que l'Agence spatiale européenne reçoit.
@@ -33,7 +37,9 @@ Les données envoyées par le satellite Gaia permettent de:
 - connaitre la distance de l'orbite de l'exoplanète à l'étoile,
 - comprendre la formation et les étapes d'évolution de la galaxie.
 
-![Voie lactée]()
+![Voie lactée](images/gaia_vl.png)
+
+> Figure 2. La voie lactée
 
 ## OBJECTIFS ET ESPERANCES:
 
@@ -45,6 +51,10 @@ Pour cela, il est prévu qu'environ un milliard de sources – soit à peine 1% 
 Par ailleurs, 30 000 petites planètes devraient être découvertes au cours de cette mission.
 
 Cette cartographie de la galaxie permettra de consolider ou réfuter les modèles de formation et de dynamique des galaxies déjà établis, puis de résoudre de grandes énigmes. Les informations les plus attendues par les astronomes concernent la formation initiale et les mécanismes de formation de disques d'accrétion des galaxies, ainsi que la structure en spirale et le nombre de bras de la Voie lactée.
+
+![Gravitation](images/gaia_gravitation.jpg)
+
+> Figure 3. La forme de la structure est engendrée par l'action de la force gravitationnelle, attirant le matériel vers le corps central, les différentes vitesses initiales des particules, qui entraînent le matériel en forme de disque, et la dissipation d'énergie en son sein par viscosité, entraînant le matériel en spirale vers l'organe central.
 
 ### Physique stellaire
 
@@ -86,7 +96,9 @@ La mesure de la courbure des rayons lumineux provenant des étoiles de l'ensembl
 
 * Pour l’aider dans ses observations, Gaia dispose comme point de référence du plus grand télescope de l’observatoire du Pic du Midi dans les Pyrénées.
 
-! [Dessin technique Gaia]()
+![Dessin technique Gaia](images/gaia_tech.png)
+
+> Figure 4. Dessin technique de GAIA
 
 * Son positionnement, sa rotation continue sur lui-même (spin) et sa rotation autour du soleil au cours de l'année assurent au satellite Gaia une observation uniforme du ciel et donc un échantillonnage régulier – comme précisé plus haut, un objet sera observé environ 100 fois sur la durée de vie de la sonde.
 
@@ -119,14 +131,18 @@ Un point de Lagrange est une position de l'espace dans un système à deux corps
 
 Au point L2, les champs de gravité de la Terre et du Soleil se compensent, les corps qui s'y trouvent suivent alors une orbite autour du Soleil a la même vitesse angulaire que la Terre. Cela permet au satellite de conserver une position fixe relativement aux deux autres corps, et donc de rester synchronisé à la Terre tout en captant des données de la Galaxie et du Soleil. Par ailleurs, l'environnement thermique y est stable puisque peu d'éclipses s'y produisent.
 
-Animation Lagrange: https://www.youtube.com/watch?v=z52WWLE8bBo
+<iframe width="560" height="315" src="//www.youtube.com/embed/z52WWLE8bBo" frameborder="0" allowfullscreen></iframe>
 
-#### Application du point de Lagrange entre le Soleil et la Terre:
+> Figure 5. Animation sur les points de Lagrange
+
+#### Application du point de Lagrange entre le Soleil et la Terre
 
 Les points L1 et L2 sont situés à proximité de la Terre, le point L3 est symétrique de la Terre par rapport au Soleil, et les points L4 et L5 sont aux sommets de triangles équilatéraux ayant le segment Soleil-Terre pour base.
 Malgré ce que pourrait laisser penser la figure, les orbites autour de L4 et L5 sont stables, et les trois autres instables, à cause de la force de Coriolis, ce qui implique que ces derniers sont contraints à observer une trajectoire circulaire autour du point de Lagrange.
 
-! [Point de Lagrange]()
+![Point de Lagrange](images/gaia_lagrange.jpg)
+
+> Figure 6. Les points de Lagrange
 
 #### Calcul de la distance des points de Lagrange à la Terre:
 
@@ -200,9 +216,11 @@ Elle reflète l'intensité lumineuse de chaque étoile de l'amas (mais pas les v
 
 Une des premières images envoyées par Gaïa:
 
-![Exemple d'observation avec Gaia]()
+![Exemple d'observation avec Gaia](images/gaia_obs.jpg)
 
-## CONCLUSION:
+> Figure 7. Exemple d'observation avec GAIA
+
+## CONCLUSION
 
 Les résultats de la mission ne devraient pas être publiés avant 3 ans après la fin de la mission, c'est-à-dire qu'ils seront publiés aux alentours de 2020.
 Ces résultats sont pleins de promesses et seront attendus avec impatience par la communauté scientifique, pour pouvoir avancer encore un peu plus dans la connaissance de l'univers qui nous entoure!
