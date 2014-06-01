@@ -13,8 +13,8 @@ De très nombreuses questions se posent sur l’univers: comment s’est-il form
 ## Table des matières
 
 1. [Introduction](#Introduction)
-2. [Histoire & économie](/histoire.html)
-3. [Hipparcos](/hipparcos.html)
-4. [WMAP](/wmap.html)
-5. [Planck](/planck.html)
-3. [GAIA](/gaia.html)
+2. [Histoire & économie](histoire.html)
+3. [Hipparcos](hipparcos.html)
+4. [WMAP](wmap.html)
+5. [Planck](planck.html)
+3. [GAIA](gaia.html)
