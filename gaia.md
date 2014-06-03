@@ -50,7 +50,7 @@ Pour cela, il est prévu qu'environ un milliard de sources – soit à peine 1% 
 
 Par ailleurs, 30 000 petites planètes devraient être découvertes au cours de cette mission.
 
-Cette cartographie de la galaxie permettra de consolider ou réfuter les modèles de formation et de dynamique des galaxies déjà établis, puis de résoudre de grandes énigmes. Les informations les plus attendues par les astronomes concernent la formation initiale et les mécanismes de formation de disques d'accrétion des galaxies, ainsi que la structure en spirale et le nombre de bras de la Voie lactée.
+Cette cartographie de la galaxie permettra de consolider ou réfuter les modèles de formation et de dynamique des galaxies déjà établis, puis de résoudre de grandes énigmes. Les informations les plus attendues par les astronomes concernent la formation initiale et les mécanismes de formation de disques d'<a data-toggle="tooltip" title="Un disque d'accrétion est une structure astrophysique formée par de la matière en orbite autour d'un objet céleste central. La forme de la structure est engendrée par l'action de la force gravitationnelle, attirant le matériel vers le corps central, les différentes vitesses initiales des particules, qui entraînent le matériel en forme de disque, et la dissipation d'énergie en son sein par viscosité, entraînant le matériel en spirale vers l'organe central.">accrétion</a> des galaxies, ainsi que la structure en spirale et le nombre de bras de la Voie lactée.
 
 ![Gravitation](images/gaia_gravitation.jpg)
 
@@ -69,7 +69,7 @@ En effet, si la matière noire existe, elle agit sur l'évolution de la galaxie 
 ### Système de référence
 
 Le grand nombre de mesures très précises sur plusieurs catégories d'objets permettront d'affiner les systèmes de référence utilisés dans tous les domaines de l'astronomie.
-Parmi ces objets, on retrouve les objets Quasars, dont le nom vient de "quasi-stellar astronomical radiosource". Le quasar est une source intense présentant un grand décalage vers le rouge du spectre électromagnétique qui apparaît comme une étoile ou comme un centre de galaxie active très compact. Il libère une énergie équivalente à des centaines voire 1 millier de galaxies combinées. Contrairement aux sursauts gamma ou supernovae, l'énergie est émise sur une longue durée bien que certains montrent des variations en brillance sur quelques mois à quelques heures. Certains quasars émettent des jets de matières et possèdent des lobes comme les radiogalaxies.
+Parmi ces objets, on retrouve les objets <a data-toggle="tooltip" title="le nom vient de 'quasi-stellar astronomical radiosource'. Le quasar est une source intense présentant un grand décalage vers le rouge du spectre électromagnétique qui apparaît comme une étoile ou comme un centre de galaxie active très compact. Il libère une énergie équivalente à des centaines voire 1 millier de galaxies combinées. Contrairement aux sursauts gamma ou supernovae, l'énergie est émise sur une longue durée bien que certains montrent des variations en brillance sur quelques mois à quelques heures. Certains quasars émettent des jets de matières et possèdent des lobes comme les radiogalaxies">Quasars</a>, dont le nom vient de "quasi-stellar astronomical radiosource". Le quasar est une source intense présentant un grand décalage vers le rouge du spectre électromagnétique qui apparaît comme une étoile ou comme un centre de galaxie active très compact. Il libère une énergie équivalente à des centaines voire 1 millier de galaxies combinées. Contrairement aux sursauts gamma ou supernovae, l'énergie est émise sur une longue durée bien que certains montrent des variations en brillance sur quelques mois à quelques heures. Certains quasars émettent des jets de matières et possèdent des lobes comme les radiogalaxies.
 
 ### Planètes extrasolaires
 
@@ -81,7 +81,7 @@ La mesure de la courbure des rayons lumineux provenant des étoiles de l'ensembl
 
 ## COMPOSITION TECHNIQUE :
 
-* Tout d'abord, le satellite Gaia se compose de 2 télescopes en carbure de silicium qui reflètent leur lumière sur un plan focal de 100 milliards de pixels.
+* Tout d'abord, le satellite Gaia se compose de 2 télescopes en <a data-toggle="tooltip" title="aussi solide et aussi dur que le diamant, il constitue: miroirs, structure du télescope, structure du plan focal.">carbure de silicium</a> qui reflètent leur lumière sur un plan focal de 100 milliards de pixels.
 
 * Le carbure de silicium est une céramique révolutionnaire (cuite à 2.100°C) aussi rigide que les métaux, mais deux ou trois fois plus légère. Homogène, elle se dilate très peu sous l'effet de la chaleur. Les télescopes spatiaux sont ainsi plus légers et résistants aux grandes variations de température dans l'espace. Ils ont été faits par l'entreprise qui a fabriqué le plus grand miroir spatial conçu à ce jour (3,50 mètres de diamètre).
 
@@ -106,7 +106,7 @@ La mesure de la courbure des rayons lumineux provenant des étoiles de l'ensembl
 
 ## MISSION:
 
-Gaia observera 1,3 milliard objets d'une magnitude inférieure à 20 dont 350 millions sont de magnitude inférieure à 18, et parmi lesquels 35 millions sont de magnitude inférieure à 15.
+Gaia observera 1,3 milliard objets d'une <a data-toggle="tooltip" title="télescope astronomique construit de sorte à garantir un important champ de vue tout en limitant les aberrations optiques.">télescope de Schmidt</a> (télescope astronomique construit de sorte à garantir un important champ de vue tout en limitant les aberrations optiques.) de diamètre 29cm et doté d’une focale de 1,4 mètre. Cet appareil permet ainsi l’observation d’étoiles d’une <a data-toggle="tooltip" title="échelle permettant de répertorier les étoiles en fonction de leur luminosité (le niveau zéro ayant été obtenu arbitrairement à partir de certaines étoiles étalons). Plus l’éclat d’un astre est faible, et plus la valeur de sa magnitude augmente. Pour une différence de 1 magnitude, leur luminosité diffère d’un facteur égal à 2,5-&gt; une étoile de magnitude 6 est de luminosité 100 fois plus faible qu’une étoile de magnitude 1. On calcul m tel que : m= -2,5log E +k (où E est l’éclat stellaire et k une constante). Cette échelle à permis d’attribuer des magnitudes négatives à certaines étoiles(le niveau zéro ayant été obtenu arbitrairement à partir de certaines étoiles étalons). Elle est également applicable aux planètes, astéroïdes, comètes, etc.">magnitude</a> inférieure à 20 dont 350 millions sont de magnitude inférieure à 18, et parmi lesquels 35 millions sont de magnitude inférieure à 15.
 Leur vitesse radiale sera mesurée avec une précision de 2 à 10 km/s. Pour les objets de magnitude <17, Gaia est équipé d'un système de détection interne et autonome : à la différence d'Hipparcos dont les observations étaient ciblées à partir d'un catalogue d'objets connus, Gaia observera tous les objets dans son champ de vue, permettant ainsi d'en découvrir de nouveaux.
 - Lancement à la date t0 (second semestre 2013)
 - Transfert à poste au point de Lagrange \\(L\_2 : t\_0 + 3 mois\\)

@@ -56,7 +56,7 @@ Une question majeure se pose alors: Quelles théories décrivant la naissance et
 La principale prouesse technologique de Planck consiste à embarquer des instruments scientifiques dont certaines parties sont refroidies à 0,1 Kelvin, soit environ - 273° C.
 
 - Le satellite sera l’objet le plus froid jamais lancé dans l’espace. Cela est obtenu grâce à l’évacuation de la chaleur avec des radiateurs et l’empilement de plusieurs étages de réfrigérateurs novateurs.
-- Planck possède une résolution angulaire inférieure à 5 minutes d'arc, et une sensibilité en température de quelques microkelvins sur l'ensemble du ciel. La large couverture en fréquences de Planck (30-857 GHz) a été choisie pour fournir des résultats détaillés sur l'émission galactique (important pour l'étude de la polarisation) et étudier les nuages de galaxies (via l'effet Sunyaev-Zel'dovich).
+- Planck possède une résolution angulaire inférieure à 5 minutes d'arc, et une sensibilité en température de quelques microkelvins sur l'ensemble du ciel. La large couverture en fréquences de Planck (30-857 GHz) a été choisie pour fournir des résultats détaillés sur l'émission galactique (important pour l'étude de la polarisation) et étudier les nuages de galaxies (via l'<a data-toggle="tooltip" title="Résultat de la distorsion du fond diffus cosmologique par des éléctrons de grande énergie, qui permet à ces électrons de transférer une grande partie de leur énergie aux photons de faible énergie du fond diffus">effet Sunyaev-Zel'dovich</a>).
 - Architecture cryogénique: permet d'amener les détecteurs à leur température de fonctionnement (voir schéma ci-dessous)
 
 ![Architecture cryogénique](images/planck_cryo.jpg)
