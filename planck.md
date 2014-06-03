@@ -10,8 +10,8 @@ En 1899, Max Planck a expliqué la façon dont un corps à l’équilibre thermi
 À l’origine, le projet majoritairement français s’appelait SAMBA. Il existait un projet italo-américain semblable appelé COBRAS. Ils ont tous deux été soumis à l'ESA (agence spatiale européenne), qui a décidé de leur fusion pour devenir un seul satellite équipé de deux instruments issus des projets initiaux : HFI (ex-SAMBA) pour les hautes fréquences et LFI (ex-COBRAS) pour les basses fréquences.
 
 1604 jours de mission:
-Après un mois et demi pour rejoindre L2 et mettre en froid les instruments, de nombreux tests sont réalisés. Les observations scientifiques commencent le 14 août 2009 après le lancement du satellite le 14 mai 2009. L’instrument HFI (haute fréquence) est opérationnel pour des observations du ciel jusqu’au 14 janvier 2012, soit jusqu’à l’épuisement des réserves d’Hélium 3. L’instrument LFI (basse fréquence) quant à lui mesure le rayonnement fossile jusqu’au 3 octobre 2013.
-On réchauffe alors le satellite et il est “abandonné” le 23 octobre 2013…
+Après un mois et demi pour rejoindre \\(L\_2\\) et mettre en froid les instruments, de nombreux tests sont réalisés. Les observations scientifiques commencent le 14 août 2009 après le lancement du satellite le 14 mai 2009. L’instrument HFI (haute fréquence) est opérationnel pour des observations du ciel jusqu’au 14 janvier 2012, soit jusqu’à l’épuisement des réserves d’Hélium 3. L’instrument LFI (basse fréquence) quant à lui mesure le rayonnement fossile jusqu’au 3 octobre 2013.
+On réchauffe alors le satellite et il est “abandonné” le 23 octobre 2013.
 
 <object style="width: 400px; height: 300px; display: block; margin-left: auto; margin-right: auto;" data="http://public.planck.fr/flash/jwplayer/player.swf" type="application/x-shockwave-flash" width="400" height="300">
 <param name="data" value="http://public.planck.fr/flash/jwplayer/player.swf">
@@ -23,7 +23,7 @@ On réchauffe alors le satellite et il est “abandonné” le 23 octobre 2013�
 
 > Figure 1. Le déplacement de Planck
 
-21 mars 2013, l’Agence spatiale européenne annonce les résultats reçus du satellite Planck.
+Le 21 mars 2013, l’Agence spatiale européenne annonce les résultats reçus du satellite Planck.
 
 ## Objectifs de la mission
 
