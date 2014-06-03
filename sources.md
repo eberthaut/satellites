@@ -1,4 +1,7 @@
-
+---
+layout: home
+title: Les sources
+---
 - [http://www.insu.cnrs.fr/node/4599](http://www.insu.cnrs.fr/node/4599)
 - [http://smsc.cnes.fr/GAIA/Fr/GP_mission.htm](http://smsc.cnes.fr/GAIA/Fr/GP_mission.htm)
 - [](http://www.esa.int/Our_Activities/Space_Science/Gaia)
