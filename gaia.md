@@ -109,8 +109,8 @@ La mesure de la courbure des rayons lumineux provenant des étoiles de l'ensembl
 Gaia observera 1,3 milliard objets d'une magnitude inférieure à 20 dont 350 millions sont de magnitude inférieure à 18, et parmi lesquels 35 millions sont de magnitude inférieure à 15.
 Leur vitesse radiale sera mesurée avec une précision de 2 à 10 km/s. Pour les objets de magnitude <17, Gaia est équipé d'un système de détection interne et autonome : à la différence d'Hipparcos dont les observations étaient ciblées à partir d'un catalogue d'objets connus, Gaia observera tous les objets dans son champ de vue, permettant ainsi d'en découvrir de nouveaux.
 - Lancement à la date t0 (second semestre 2013)
-- Transfert au point de Lagrange L2 : t0 + 3 mois
-- Recette en vol et étalonnage: jusqu'à t0 + 6 mois.
+- Transfert à poste au point de Lagrange \\(L\_2 : t\_0 + 3 mois\\)
+- Recette en vol et étalonnage jusqu'à \\(t\_0 + 6 mois\\).
 - Observations en continu pendant 5 ans avec en moyenne chaque seconde :
                 80 observations astrométriques (x 9 CCDs)
                 80 observations photométriques
@@ -119,15 +119,15 @@ Leur vitesse radiale sera mesurée avec une précision de 2 à 10 km/s. Pour les
 
 ### Accession à son orbite opérationnelle :
 
-Gaia est maintenant sur son orbite opérationnelle autour du point de Lagrange "L2", un point virtuel gravitationnellement stable à 1,5 millions de kilomètres de la Terre. Cette orbite est de 263 000 x 707 000 x 370 000 kilomètres.
-L'insertion en orbite autour de L2 est une tâche relativement complexe, accomplie en effectuant la poussée des moteurs de Gaia de manière à pousser le véhicule spatial dans la direction voulue, tout en protégeant du Soleil les délicats instruments scientifiques.
-Une fois que les instruments du véhicule spatial auront été entièrement testés et calibrés - une activité commencée pendant le trajet vers L2 et prévue pour durer encore quatre mois - Gaia sera prêt à entrer dans sa phase opérationnelle de cinq ans.
+Gaia est maintenant sur son orbite opérationnelle autour du point de Lagrange \\(L\_2\\), un point virtuel gravitationnellement stable à 1,5 millions de kilomètres de la Terre. Cette orbite est de 263 000 x 707 000 x 370 000 kilomètres.
+L'insertion en orbite autour de \\(L\_2\\) est une tâche relativement complexe, accomplie en effectuant la poussée des moteurs de Gaia de manière à pousser le véhicule spatial dans la direction voulue, tout en protégeant du Soleil les délicats instruments scientifiques.
+Une fois que les instruments du véhicule spatial auront été entièrement testés et calibrés - une activité commencée pendant le trajet vers \\(L\_2\\) et prévue pour durer encore quatre mois - Gaia sera prêt à entrer dans sa phase opérationnelle de cinq ans.
 
 ### Points de Lagrange
 
 Un point de Lagrange est une position de l'espace dans un système à deux corps, où les champs de gravité des corps se combinent de manière à fournir un point d'équilibre à un troisième corps de masse négligeable, tel que les positions relatives des trois corps soient fixes.
 
-Au point L2, les champs de gravité de la Terre et du Soleil se compensent, les corps qui s'y trouvent suivent alors une orbite autour du Soleil à la même vitesse angulaire que la Terre. Cela permet au satellite de conserver une position fixe relativement aux deux autres corps, et donc de rester synchronisé à la Terre tout en captant des données de la Galaxie et du Soleil. Par ailleurs, l'environnement thermique y est stable puisque peu d'éclipses s'y produisent.
+Au point \\(L\_2\\), les champs de gravité de la Terre et du Soleil se compensent, les corps qui s'y trouvent suivent alors une orbite autour du Soleil à la même vitesse angulaire que la Terre. Cela permet au satellite de conserver une position fixe relativement aux deux autres corps, et donc de rester synchronisé à la Terre tout en captant des données de la Galaxie et du Soleil. Par ailleurs, l'environnement thermique y est stable puisque peu d'éclipses s'y produisent.
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/z52WWLE8bBo" frameborder="0" allowfullscreen></iframe>
 
@@ -135,8 +135,8 @@ Au point L2, les champs de gravité de la Terre et du Soleil se compensent, les 
 
 #### Application du point de Lagrange entre le Soleil et la Terre
 
-Les points L1 et L2 sont situés à proximité de la Terre, le point L3 est le symétrique de la Terre par rapport au Soleil, et les points L4 et L5 sont aux sommets de triangles équilatéraux ayant le segment Soleil-Terre pour base.
-Malgré ce que pourrait laisser penser la figure, les orbites autour de L4 et L5 sont stables, et les trois autres instables, à cause de la force de Coriolis, ce qui implique que ces derniers sont contraints à observer une trajectoire circulaire autour du point de Lagrange.
+Les points \\(L\_1\\) et \\(L\_2\\) sont situés à proximité de la Terre, le point \\(L\_3\\) est le symétrique de la Terre par rapport au Soleil, et les points \\(L\_4\\) et \\(L\_5\\) sont aux sommets de triangles équilatéraux ayant le segment Soleil-Terre pour base.
+Malgré ce que pourrait laisser penser la figure, les orbites autour de \\(L\_4\\) et \\(L\_5\\) sont stables, et les trois autres instables, à cause de la force de Coriolis, ce qui implique que ces derniers sont contraints à observer une trajectoire circulaire autour du point de Lagrange.
 
 ![Point de Lagrange](images/gaia_lagrange.jpg)
 
@@ -173,8 +173,8 @@ $$a=\frac{v^2}{r}$$
 $$v=\frac{2\pi r}{T}=TODO$$
 $$T=\sqrt{\frac{r^3}{GM}}$$
 
-##### Exemple: calcul de la distance entre la Terre et le point \\(L_1\\)
-Les forces qui agiraient sur un satellite positionné au point L1 sont:
+##### Exemple: calcul de la distance entre la Terre et le point \\(L\_1\\)
+Les forces qui agiraient sur un satellite positionné au point \\(L\_1\\) sont:
 
 - \\(F_s\\) Attraction du soleil
 - \\(F_t\\) Attraction de la Terre
@@ -187,24 +187,31 @@ On a les données suivantes:
 - \\(m\\) masse de la Terre
 - \\(\mu\\) masse du satellite (très petite face à \\(m\\) et \\(M\\))
 - \\(R\\) Distance Soleil-Terre
-- \\(r\\) distance de \\(L_1\\) à la Terre
+- \\(r\\) distance de \\(L\_1\\) à la Terre
 
 D’après les équations ci-dessus:
 
-$$TODO$$
+$$F_s = \frac{GM\mu}{(R-r)^2}$$
+
+$$F_t = \frac{Gm\mu}{r^2}$$
+
+$$F_c = \frac{\mu V^2}{(R-r)}$$
 
 et
 
-$$TODO$$
+$$VT = 2\pi(R-r)$$
 
 Nous avons donc en simplifiant : 
 
-$$TODO$$
+$$\frac{GM}{(R-r)^3} - \frac{Gm}{R^2(R-r)} = \frac{4\pi ^2}{T^2}$$
    
 Or, en ce point la période de rotation autour du soleil T est ÉGALE  à celle de la Terre (1 an) puisque le point est fixe par rapport à celle-ci. Mais si on considère la Terre seule, elle est en équilibre entre l'attraction solaire et la force centrifuge de la Terre sur son orbite. On peut donc écrire, si T est aussi la période de rotation de la Terre (1 an) :
 
-     
+$$\frac{GMm}{R^2} = \frac{mV_r^2}{R} = \frac{m4\pi^2R^2}{RT^2}$$
+
 En remplaçant dans la formule plus haut :
+
+$$\frac{GM}{(R-r)^3}-\frac{Gm}{R^2(R-r)}=\frac{GM}{R^3}$$
 
 Pour simplifier, on pose : \\(y = \frac{m}{M}\\) (très petit) et \\(z = \frac{r}{R}\\) (petit)
 
@@ -218,9 +225,9 @@ $$3 (\frac{r}{R})^3 = \frac{m}{M}$$
 
 ##### Dans le cas du système Terre-Soleil
 
-Le soleil est 330.000 fois plus lourd que la Terre ($\frac{m}{M} = 3.10^{-6}$), on en déduit que le rapport $\frac{r}{R}$ vaut approximativement $1%$. Donc la distance entre le point de Lagrange $L_1$ et la Terre est égale à $1%$ de la distance Terre-Soleil soit  $r = 1,5 MKm$ de la Terre.  
+Le soleil est 330.000 fois plus lourd que la Terre (\\(\frac{m}{M} = 3.10^{-6}\\)), on en déduit que le rapport \\(\frac{r}{R}\\) vaut approximativement 1%. Donc la distance entre le point de Lagrange \\(L\_1\\) et la Terre est égale à 1% de la distance Terre-Soleil soit  \\(r = 1,5 MKm\\) de la Terre.
 
-On pourrait aussi calculer la distance de $L_2$ (où $F_s = F_t + F_c$) qui est symétrique par rapport à $m$ (la Terre) donc aussi à $1,5 Mkm$ de celle-ci.
+On pourrait aussi calculer la distance de \\(L\_2\\) (où \\(F\_s = F\_t + F\_c\\)) qui est symétrique par rapport à \\(m\\) (la Terre) donc aussi à \\(1,5 Mkm\\) de celle-ci.
 
 ### Un exemple d'observation: l'amas stellaire NGC 1818
 

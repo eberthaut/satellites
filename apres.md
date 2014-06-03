@@ -1,6 +1,7 @@
 ---
-layout: home
+layout: feature
 title: Et après ?
+background: ngc2174
 ---
 
 ## Que fait-on des satellites une fois leur mission terminée ?
