@@ -17,6 +17,9 @@ layout: default
 <div class="container">
   <div class="row">
     <div class="col-md-2">
+      <p class="hidden-md hidden-lg">
+        <a href="index.html" class="btn btn-default">Retour au sommaire</a>
+      </p>
       <div data-spy="affix" class="visible-md visible-lg">
         <ul class="nav nav-pills nav-stacked">
           <li><a href="index.html">Introduction</a></li>
@@ -30,11 +33,15 @@ layout: default
       </div>
     </div>
     <div class="col-md-10">
+      <a name="haut"></a>
       {{ content }}
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-md-12">
+      <hr />
+      <p>
+        <div class="btn-group">
+          <a href="index.html" class="btn btn-default">Retour au sommaire</a>
+          <a href="#haut" class="btn btn-default">Retour en haut</a>
+        </div>
+      </p>
       <p><a href="http://www.spacetelescope.org">Photos par le satellite Hubble | NASA, ESA, and the Hubble Heritage Team (CC-BY)</a></p>
     </div>
   </div>
