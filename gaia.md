@@ -7,7 +7,7 @@ satellite: gaia
 ---
 
 Notre Voie lactée est composée de milliards d'étoiles, dont il est difficile d'appréhender l'étendue.
-Afin d'augmenter la compréhension de notre univers proche et lointain, de son histoire et de ses lois, l'Agence spatiale européenne a développé la mission Gaia, en référence au grec ancien  Γαῖα, qui signifie «déesse mère».
+Afin d'augmenter la compréhension de notre univers proche et lointain, de son histoire et de ses lois, l'Agence Spatiale Européenne a développé la mission Gaia, en référence au grec ancien  Γαῖα, qui signifie «déesse mère».
 
 Par le biais d'un satellite innovant lancé le 19 décembre 2013, il est désormais possible de scanner le ciel avec une précision mille fois supérieure à celle des observations depuis le sol, et l'apport de cette technique promet des découvertes intéressantes.
 
@@ -21,7 +21,7 @@ Le coût de la mission est évalué à 740 millions d'euros, auquel il faut ajou
 
 ## OBSERVATIONS ET TRAITEMENT DES DONNEES:
 
-Le principal défi de la mission Gaia est le traitement des données que l'Agence spatiale européenne reçoit.
+Le principal défi de la mission Gaia est le traitement des données que l'Agence Spatiale Européenne reçoit.
 
 En effet, le satellite envoie des informations pendant 8 heures chaque jour, ce qui représente 100 Giga-octets de données quotidiennes à traiter.  A cela vient s'ajouter le traitement cyclique : le satellite observe la totalité du ciel par cycle de 6 mois et les informations sont retraitées à la fin de chaque cycle.
 Afin de gérer cette masse de travail, une centaine de scientifiques travaille dans 6 centres de traitements des données à travers la France ; ils réalisent 6000 milliards d'opérations par seconde.
@@ -31,7 +31,7 @@ L'observation se concentre sur l'archéologie galactique, l'étude des astéroï
 Les données envoyées par le satellite Gaia permettent de:
 
 - observer très précisément la structure et la vitesse des étoiles qui se trouvent dans les parties centrales de la Voie Lactée, et recenser toutes les étoiles rencontrées (position et vitesse de déplacement) ;
-- observer la forme des bras spiraux très proches du soleil,
+- observer la forme des bras spiraux très proches du Soleil,
 - mesurer la taille du disque de la Voie Lactée,
 - distinguer la présence d'exoplanètes et d'en donner la masse,
 - connaitre la distance de l'orbite de l'exoplanète à l'étoile,
@@ -83,7 +83,7 @@ La mesure de la courbure des rayons lumineux provenant des étoiles de l'ensembl
 
 * Tout d'abord, le satellite Gaia se compose de 2 télescopes en carbure de silicium qui reflètent leur lumière sur un plan focal de 100 milliards de pixels.
 
-* Le carbure de silicium est une céramique révolutionnaire (cuite à 2.100°C) aussi rigide que les métaux, mais deux ou trois fois plus légère. Homogène, elle se dilate très peu sous l'effet de la chaleur. Télescopes spatiaux plus légers et résistants aux grandes variations de température dans l'espace (fait par l'entreprise qui a fabriqué le plus grand miroir spatial conçu à ce jour (3,50mètres de diamètre) ).
+* Le carbure de silicium est une céramique révolutionnaire (cuite à 2.100°C) aussi rigide que les métaux, mais deux ou trois fois plus légère. Homogène, elle se dilate très peu sous l'effet de la chaleur. Les télescopes spatiaux sont ainsi plus légers et résistants aux grandes variations de température dans l'espace. Ils ont été faits par l'entreprise qui a fabriqué le plus grand miroir spatial conçu à ce jour (3,50 mètres de diamètre).
 
 * En carbure de silicium: dix miroirs rectangulaires, mais aussi l'anneau de 3,50 mètres de diamètre qui les porte et le radiateur des cellules. «Fabriquer la structure et le miroir dans le même matériau rend l'ensemble plus léger et plus simple à assembler qu'un mélange de céramique et de métaux».
 
@@ -100,17 +100,17 @@ La mesure de la courbure des rayons lumineux provenant des étoiles de l'ensembl
 
 > Figure 4. Dessin technique de GAIA
 
-* Son positionnement, sa rotation continue sur lui-même (spin) et sa rotation autour du soleil au cours de l'année assurent au satellite Gaia une observation uniforme du ciel et donc un échantillonnage régulier – comme précisé plus haut, un objet sera observé environ 100 fois sur la durée de vie de la sonde.
+* Son positionnement, sa rotation continue sur lui-même (spin) et sa rotation autour du Soleil au cours de l'année assurent au satellite Gaia une observation uniforme du ciel et donc un échantillonnage régulier – comme précisé plus haut, un objet sera observé environ 100 fois sur la durée de vie de la sonde.
 
 * Masse totale de 2 tonnes.
 
 ## MISSION:
 
-Gaia observera 1,3 milliard objets d'une magnitude inférieure à 20 dont 350 millions sont de magnitude inférieure à 18 parmi lesquelles 35 millions sont de magnitude inférieure à 15.
-Leur vitesse radiale sera mesurée avec une précision de 2 à 10 km/s pour les objets de magnitude <17 Gaia est équipé d'un système de détection interne et autonome : à la différence d'Hipparcos dont les observations étaient ciblées à partir d'un catalogue d'objets connus, Gaia observera tous les objets dans son champ de vue, permettant ainsi d'en découvrir de nouveaux.
+Gaia observera 1,3 milliard objets d'une magnitude inférieure à 20 dont 350 millions sont de magnitude inférieure à 18, et parmi lesquels 35 millions sont de magnitude inférieure à 15.
+Leur vitesse radiale sera mesurée avec une précision de 2 à 10 km/s. Pour les objets de magnitude <17, Gaia est équipé d'un système de détection interne et autonome : à la différence d'Hipparcos dont les observations étaient ciblées à partir d'un catalogue d'objets connus, Gaia observera tous les objets dans son champ de vue, permettant ainsi d'en découvrir de nouveaux.
 - Lancement à la date t0 (second semestre 2013)
-- Transfert à poste au point de Lagrange \\(L_2\\) : t0 + 3 mois
-- Recette en vol et étalonnage jusqu'à T0 + 6 mois.
+- Transfert à poste au point de Lagrange \\(L\_2 : t\_0 + 3 mois\\)
+- Recette en vol et étalonnage jusqu'à \\(t\_0 + 6 mois\\).
 - Observations en continu pendant 5 ans avec en moyenne chaque seconde :
                 80 observations astrométriques (x 9 CCDs)
                 80 observations photométriques
@@ -119,17 +119,15 @@ Leur vitesse radiale sera mesurée avec une précision de 2 à 10 km/s pour les 
 
 ### Accession à son orbite opérationnelle :
 
-Gaia, le cartographe d'un milliard d'étoiles de l'ESA est maintenant sur son orbite opérationnelle autour du point de Lagrange "\\(L_2\\)", un point virtuel gravitationnellement stable à 1,5 millions de kilomètres de la Terre. Gaia est sur son orbite de 180 jours autour de \\(L_2\\), une orbite de 263 000 x 707 000 x 370 000 kilomètres.
-L'insertion en orbite autour de \\(L_2\\) est une tâche relativement complexe, accomplie en effectuant la poussée des moteurs de Gaia de manière à pousser le véhicule spatial dans la direction voulue, tout en protégeant les délicats instruments scientifiques du Soleil.
-Une fois que les instruments du véhicule spatial auront été entièrement testés et calibrés - une activité commencée pendant le trajet vers \\(L_2\\) et prévue pour durer encore quatre mois - Gaia sera prêt à entrer dans sa phase opérationnelle de cinq ans.
+Gaia est maintenant sur son orbite opérationnelle autour du point de Lagrange \\(L\_2\\), un point virtuel gravitationnellement stable à 1,5 millions de kilomètres de la Terre. Cette orbite est de 263 000 x 707 000 x 370 000 kilomètres.
+L'insertion en orbite autour de \\(L\_2\\) est une tâche relativement complexe, accomplie en effectuant la poussée des moteurs de Gaia de manière à pousser le véhicule spatial dans la direction voulue, tout en protégeant du Soleil les délicats instruments scientifiques.
+Une fois que les instruments du véhicule spatial auront été entièrement testés et calibrés - une activité commencée pendant le trajet vers \\(L\_2\\) et prévue pour durer encore quatre mois - Gaia sera prêt à entrer dans sa phase opérationnelle de cinq ans.
 
 ### Points de Lagrange
 
-Le satellite Gaia se positionne au point de Lagrange \\(L_2\\), à environ 1.5 million de kilomètres de la Terre.
-
 Un point de Lagrange est une position de l'espace dans un système à deux corps, où les champs de gravité des corps se combinent de manière à fournir un point d'équilibre à un troisième corps de masse négligeable, tel que les positions relatives des trois corps soient fixes.
 
-Au point \\(L_2\\), les champs de gravité de la Terre et du Soleil se compensent, les corps qui s'y trouvent suivent alors une orbite autour du Soleil a la même vitesse angulaire que la Terre. Cela permet au satellite de conserver une position fixe relativement aux deux autres corps, et donc de rester synchronisé à la Terre tout en captant des données de la Galaxie et du Soleil. Par ailleurs, l'environnement thermique y est stable puisque peu d'éclipses s'y produisent.
+Au point \\(L\_2\\), les champs de gravité de la Terre et du Soleil se compensent, les corps qui s'y trouvent suivent alors une orbite autour du Soleil à la même vitesse angulaire que la Terre. Cela permet au satellite de conserver une position fixe relativement aux deux autres corps, et donc de rester synchronisé à la Terre tout en captant des données de la Galaxie et du Soleil. Par ailleurs, l'environnement thermique y est stable puisque peu d'éclipses s'y produisent.
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/z52WWLE8bBo" frameborder="0" allowfullscreen></iframe>
 
@@ -137,8 +135,8 @@ Au point \\(L_2\\), les champs de gravité de la Terre et du Soleil se compensen
 
 #### Application du point de Lagrange entre le Soleil et la Terre
 
-Les points \\(L_1\\) et \\(L_2\\) sont situés à proximité de la Terre, le point \\(L_3\\) est symétrique de la Terre par rapport au Soleil, et les points \\(L_4\\) et \\(L_5\\) sont aux sommets de triangles équilatéraux ayant le segment Soleil-Terre pour base.
-Malgré ce que pourrait laisser penser la figure, les orbites autour de \\(L_4\\) et \\(L_5\\) sont stables, et les trois autres instables, à cause de la force de Coriolis, ce qui implique que ces derniers sont contraints à observer une trajectoire circulaire autour du point de Lagrange.
+Les points \\(L\_1\\) et \\(L\_2\\) sont situés à proximité de la Terre, le point \\(L\_3\\) est le symétrique de la Terre par rapport au Soleil, et les points \\(L\_4\\) et \\(L\_5\\) sont aux sommets de triangles équilatéraux ayant le segment Soleil-Terre pour base.
+Malgré ce que pourrait laisser penser la figure, les orbites autour de \\(L\_4\\) et \\(L\_5\\) sont stables, et les trois autres instables, à cause de la force de Coriolis, ce qui implique que ces derniers sont contraints à observer une trajectoire circulaire autour du point de Lagrange.
 
 ![Point de Lagrange](images/gaia_lagrange.jpg)
 
@@ -160,11 +158,11 @@ Avec \\(G = 6,67.10^{-11} Nm^2/kg^2\\) la constante de gravitation universelle, 
 
 ##### Mécanique: Les lois de Newton
 
-**Première Loi :** En l'absence de forces agissant sur lui, tout corps est soit au repos soit se déplace à vitesse constante en ligne droite.
+**Première Loi :** En l'absence de forces agissant sur lui, tout corps est soit au repos soit en déplacement à vitesse constante en ligne droite.
 
 **Deuxième Loi :** Quand une force est appliquée à un corps, il s'accélère dans la même direction et cette accélération est proportionnelle à la Force et inversement proportionnelle à sa masse.
 
-Rappel : sur Terre \\(\Gamma\\) est égale à \\(g=  9,8 m/s/s\\) (accélération de la pesanteur)
+Rappel : sur Terre \\(\Gamma\\) est égale à \\(g=  9,8 m/s\\) (accélération de la pesanteur)
 
 **Troisième Loi :** Toute action entraîne une réaction égale et opposée.
 
@@ -175,8 +173,8 @@ $$a=\frac{v^2}{r}$$
 $$v=\frac{2\pi r}{T}=TODO$$
 $$T=\sqrt{\frac{r^3}{GM}}$$
 
-##### Exemple: calcul de la distance entre la Terre et le point \\(L_1\\)
-Les forces qui agiraient sur un satellite positionné au point \\(L_1\\) sont:
+##### Exemple: calcul de la distance entre la Terre et le point \\(L\_1\\)
+Les forces qui agiraient sur un satellite positionné au point \\(L\_1\\) sont:
 
 - \\(F_s\\) Attraction du soleil
 - \\(F_t\\) Attraction de la Terre
@@ -189,7 +187,7 @@ On a les données suivantes:
 - \\(m\\) masse de la Terre
 - \\(\mu\\) masse du satellite (très petite face à \\(m\\) et \\(M\\))
 - \\(R\\) Distance Soleil-Terre
-- \\(r\\) distance de \\(L_1\\) à la Terre
+- \\(r\\) distance de \\(L\_1\\) à la Terre
 
 D’après les équations ci-dessus:
 
@@ -207,7 +205,7 @@ Nous avons donc en simplifiant : 
 
 $$\frac{GM}{(R-r)^3} - \frac{Gm}{R^2(R-r)} = \frac{4\pi ^2}{T^2}$$
    
-Or, en ce point la période de rotation autour du soleil T est ÉGALE  à celle de la Terre (1 an) puisque le point est fixe par rapport à celle-ci. Mais si on considère la Terre seule, elle est en équilibre entre l'attraction solaire et la force centrifuge de la terre sur son orbite, on peut donc écrire, si T est aussi la période de rotation de la terre (1 an) :
+Or, en ce point la période de rotation autour du soleil T est ÉGALE  à celle de la Terre (1 an) puisque le point est fixe par rapport à celle-ci. Mais si on considère la Terre seule, elle est en équilibre entre l'attraction solaire et la force centrifuge de la Terre sur son orbite. On peut donc écrire, si T est aussi la période de rotation de la Terre (1 an) :
 
 $$\frac{GMm}{R^2} = \frac{mV_r^2}{R} = \frac{m4\pi^2R^2}{RT^2}$$
 
@@ -227,14 +225,14 @@ $$3 (\frac{r}{R})^3 = \frac{m}{M}$$
 
 ##### Dans le cas du système Terre-Soleil
 
-Le soleil est 330.000 fois plus lourd que la Terre (\\(\frac{m}{M} = 3.10^{-6}\\)), on en déduit que le rapport \\(\frac{r}{R}\\) vaut approximativement 1%. Donc la distance entre le point de Lagrange \\(L_1\\) et la terre est égale à 1% de la distance Terre-Soleil soit  \\(r = 1,5 MKm\\) de la Terre.  
+Le soleil est 330.000 fois plus lourd que la Terre (\\(\frac{m}{M} = 3.10^{-6}\\)), on en déduit que le rapport \\(\frac{r}{R}\\) vaut approximativement 1%. Donc la distance entre le point de Lagrange \\(L\_1\\) et la Terre est égale à 1% de la distance Terre-Soleil soit  \\(r = 1,5 MKm\\) de la Terre.
 
 On pourrait aussi calculer la distance de \\(L\_2\\) (où \\(F\_s = F\_t + F\_c\\)) qui est symétrique par rapport à \\(m\\) (la Terre) donc aussi à \\(1,5 Mkm\\) de celle-ci.
 
 ### Un exemple d'observation: l'amas stellaire NGC 1818
 
 L'amas stellaire NGC 1818 est une galaxie distante de 160 000 années lumière.
-L'image a été prise dans la phase de réglage et de vérification qui a suivi le lancement du satellite.
+L'image a été prise dans la phase de réglage et de vérification qui a suivie le lancement du satellite.
 Elle reflète l'intensité lumineuse de chaque étoile de l'amas (mais pas les vraies couleurs).
 
 Une des premières images envoyées par Gaïa:
@@ -246,4 +244,4 @@ Une des premières images envoyées par Gaïa:
 ## CONCLUSION
 
 Les résultats de la mission ne devraient pas être publiés avant 3 ans après la fin de la mission, c'est-à-dire qu'ils seront publiés aux alentours de 2020.
-Ces résultats sont pleins de promesses et seront attendus avec impatience par la communauté scientifique, pour pouvoir avancer encore un peu plus dans la connaissance de l'univers qui nous entoure!
+Ces résultats sont pleins de promesses et seront attendus avec impatience par la communauté scientifique, pour pouvoir avancer encore un peu plus dans la connaissance de l'Univers qui nous entoure!
